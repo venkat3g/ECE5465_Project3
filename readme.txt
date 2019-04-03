@@ -9,3 +9,7 @@ See
 - http://mcuoneclipse.com/2014/01/07/frdm-with-arduino-ethernet-shield-r3-part-2-ping/
 - http://mcuoneclipse.com/2014/01/25/frdm-with-arduino-ethernet-shield-r3-part-3-embedded-web-server/
 
+Requires:
+- CodeWarrior IDE
+- The releases of the Processor Expert components can be found on SourceForge:
+  https://sourceforge.net/projects/mcuoneclipse/files/PEx%20Components/
